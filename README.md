@@ -2,6 +2,8 @@
 
 Give a topic. Four AI agents collaborate to research it and write a cited report.
 
+**Live demo:** https://research-agent-jkt3.onrender.com/
+
 ## How it works
 
 Topic -> Planner -> Researcher -> Writer -> Critic
